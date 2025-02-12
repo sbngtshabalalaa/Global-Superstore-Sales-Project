@@ -84,5 +84,5 @@ o Providing actionable recommendations, such as:
 
 ## 🔗 Connect  
 
-LinkedIn: (https://linkedin.com/in/) 
+LinkedIn: https://www.linkedin.com/in/siyabonga-mfanelo-tshabalala/
 GitHub: (https://github.com/yourusername)
