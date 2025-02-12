@@ -1,17 +1,64 @@
-# Global-Superstore-Sales-Project
-A collection of my data analytics project using Microsoft Excel, Power Query, Power Pivot, and Power BI.
+# 📊 Global-Superstore-Sales-Project
 
-# 📊 [Project Title]
-**Overview**:  
-A brief description of the project and its business impact.
+**Project Overview**:  
+The objective of this Data Analysis project is to conduct an in-depth analysis of the sales, profits, 
+and shipping data from Global Superstore, with a particular emphasis on understanding the 
+performance across Canadian provinces. The analysis will utilize Power BI’s powerful data 
+visualization capabilities to answer key business questions related to regional Performance, 
+Consumer Behaviour, and Product success. By visualizing these aspects, the project aims to 
+uncover trends and insights that will help the company identify areas of improvement, growth 
+opportunities, and inefficiencies in its operations. These insights will be critical for Global 
+Superstore to make data-driven decisions, refine its sales strategies, optimize its product 
+offerings, and improve regional performance.
+
+**Project Goal**:
+The goal of this project is to create an interactive Power BI dashboard that answers critical 
+business questions about Global Superstore's operations, both in Canada and globally. This will 
+involve answering questions related to sales performance, profitability, and product demand by 
+analyzing data across various provinces, cities, and product categories. By the end of this project, 
+the report will provide actionable insights that can help Global Superstore optimize its operations, 
+improve its product offerings, and refine its sales strategies to drive better results.
 
 🚀 Tools Used:  
 ✅ Excel | ✅ Power Query | ✅ Power Pivot | ✅ Power BI  
 
 ## 📂 Dataset & Data Preparation  
-- Source: Kaggle, Internal Data  
-- Cleaning & Transformation: Used **Power Query** for data preprocessing.  
-- **Data Modeling:** Built relationships and measures using **Power Pivot**.  
+- Source: Kaggle, Internal Data
+-  Excel Dataset: Contains details on orders, sales, profits, product categories, 
+subcategories, regions, provinces, cities, shipping costs, and more.
+
+1. Data Preparation:
+o Loading the Excel data into **Power Query**.
+o Cleaning the data by addressing missing values, correcting any errors, and 
+ensuring correct data types for accurate analysis.
+
+2. Data Modeling:
+o Creating calculated columns for key metrics like Total Sales, Total Profit, and Profit 
+Margins.
+o Setting up relationships between tables such as orders, products, customers, 
+regions, and cities.
+o Defining relationships between the tables in the data model to enable smooth 
+reporting and analysis.
+
+3. Visualizing the Data:
+o Creating individual report pages or tabs in Power BI to answer each question 
+clearly.
+o Using different types of visuals to represent the data effectively: 
+▪ Tables: To display rankings of customers, products, and cities.
+
+4. Interactive Features:
+o Adding slicers to filter the data by year, province, and product category.
+o Using drill-through capabilities for deeper insights (e.g., clicking on a province to 
+see details on specific cities or products).
+o Including tooltips to provide additional context for each visual.
+
+5. Key Insights and Recommendations:
+o Summarizing key findings on the final report page.
+o Providing actionable recommendations, such as: 
+▪ Marketing strategies for low-performing provinces.
+▪ Possible discontinuation of underperforming product subcategories.
+▪ Capitalizing on high-demand products or regions.
+
 
 ## 📊 Dashboard Features  
 - **Key KPIs**: Revenue, Profit, Customer Segments  
