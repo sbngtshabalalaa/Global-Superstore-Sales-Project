@@ -1,25 +1,29 @@
 # Global-Superstore-Sales-Project
 A collection of my data analytics project using Microsoft Excel, Power Query, Power Pivot, and Power BI.
 
-# 📊 Global Superstore Sales Project
-Overview:  
-A brief description of what the project does.
+# 📊 [Project Title]
+**Overview**:  
+A brief description of the project and its business impact.
 
-Tools Used:  
+🚀 Tools Used:  
 ✅ Excel | ✅ Power Query | ✅ Power Pivot | ✅ Power BI  
 
 ## 📂 Dataset & Data Preparation  
-- Source: Kaggle  
-- Cleaning: Performed in Power Query  
-- Modeling: Built relationships in Power Pivot  
-- Visualization: Interactive Power BI dashboard  
+- Source: Kaggle, Internal Data  
+- Cleaning & Transformation: Used **Power Query** for data preprocessing.  
+- **Data Modeling:** Built relationships and measures using **Power Pivot**.  
 
 ## 📊 Dashboard Features  
-- Key KPIs and insights  
-- Interactive slicers, filters, and drill-through pages  
+- **Key KPIs**: Revenue, Profit, Customer Segments  
+- **Interactive Elements**: Filters, slicers, drill-through pages  
+- **Visualizations**: Line charts, bar charts, heatmaps  
+
+## 🖼 Screenshots  
+_(Insert images of your Power BI dashboard here.)_  
 
 ## 🚀 Future Improvements  
-List enhancements like adding real-time data, more charts, or deeper insights
+- Add real-time data integration  
+- Optimize DAX calculations for performance  
 
 ## 🔗 Connect  
 LinkedIn: (https://linkedin.com/in/) 
