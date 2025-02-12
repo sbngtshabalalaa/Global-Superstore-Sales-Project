@@ -19,7 +19,10 @@ A brief description of the project and its business impact.
 - **Visualizations**: Line charts, bar charts, heatmaps  
 
 ## 🖼 Screenshots  
-_(Insert images of your Power BI dashboard here.)_  
+![image](https://github.com/user-attachments/assets/b710c228-8b04-4807-bc1f-8cdc9c2d4174)
+![image](https://github.com/user-attachments/assets/2ed0ac81-c3ca-41d9-947c-de515689bdd9)
+![image](https://github.com/user-attachments/assets/3d16a07d-69c2-48e4-bd65-76fa345966aa)
+
 
 ## 🚀 Future Improvements  
 - Add real-time data integration  
