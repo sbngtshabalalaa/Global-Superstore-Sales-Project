@@ -1,6 +1,7 @@
 # 📊 Global-Superstore-Sales-Project
 
-**Project Overview**:  
+**Project Overview**:
+
 The objective of this Data Analysis project is to conduct an in-depth analysis of the sales, profits, 
 and shipping data from Global Superstore, with a particular emphasis on understanding the 
 performance across Canadian provinces. The analysis will utilize Power BI’s powerful data 
@@ -12,6 +13,7 @@ Superstore to make data-driven decisions, refine its sales strategies, optimize 
 offerings, and improve regional performance.
 
 **Project Goal**:
+
 The goal of this project is to create an interactive Power BI dashboard that answers critical 
 business questions about Global Superstore's operations, both in Canada and globally. This will 
 involve answering questions related to sales performance, profitability, and product demand by 
