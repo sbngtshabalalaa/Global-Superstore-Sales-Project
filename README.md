@@ -85,4 +85,5 @@ o Providing actionable recommendations, such as:
 ## 🔗 Connect  
 
 LinkedIn: https://www.linkedin.com/in/siyabonga-mfanelo-tshabalala/
-GitHub: (https://github.com/yourusername)
+GitHub: https://github.com/sbngtshabalalaa/Global-Superstore-Sales-Project
+
