@@ -1,2 +1,3 @@
 # Global-Superstore-Sales-Project
-Personal Development - Data Analysis Project (Ms Excel + Power BI)
+A collection of my data analytics project using Microsoft Excel, Power Query, Power Pivot, and Power BI.
+
